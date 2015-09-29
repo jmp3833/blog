@@ -1,0 +1,9 @@
+# Site settings
+title: 'Justin Peterson' # Your Title
+tagline: 'Web developer and hardware enthusiast' 
+sidebar_image: /images/cover.jpg
+
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+baseurl: "" 
