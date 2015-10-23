@@ -7,3 +7,6 @@ sidebar_image: /images/cover.jpg
 markdown: redcarpet
 highlighter: pygments
 baseurl: "" 
+
+#Allow deploys to CI
+exclude: [vendor]
