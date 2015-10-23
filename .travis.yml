@@ -6,3 +6,6 @@ rvm:
 
 script: bundle exec jekyll build --safe 
 
+after_success:
+  - 
+
