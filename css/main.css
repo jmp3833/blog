@@ -354,3 +354,11 @@ ul.posts p {
   color: #FFFFFF !important;
 }
 
+.blog-image {
+  max-width: 800px;
+  max-height: 450px;
+
+  margin-left: auto;
+  margin-right; auto;
+}
+
