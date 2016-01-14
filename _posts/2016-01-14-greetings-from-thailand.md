@@ -6,7 +6,7 @@ categories: travel
 featured_image: /images/cover.jpg
 ---
 
-## Greetings from Thailand!
+## A Trip Across the World
 The new year has brought my first true international traveling experience (excluding Canada and Mexico) through China, Thailand, and Burma.
 This past week I have been spending time hiking waterfalls, traveling to ancient temples, and viewing tourist shows all over northern Thailand. 
 
