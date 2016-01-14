@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello, Blog!"
+title: "Obligatory First Post"
 date: 2015-09-29 12:00:00
 categories: intro 
 featured_image: /images/cover.jpg
