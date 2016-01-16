@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gretings from Thailand!"
+title: "Greetings from Thailand!"
 date: 2016-01-14 20:00:00
 categories: travel 
 featured_image: /images/cover.jpg
@@ -19,7 +19,7 @@ This past week I have been spending time hiking waterfalls, traveling to ancient
 I was fortunate enough to visit my good friend Krit Upra, and stay in his family's home over the past few days. We set up home base here in 
 the city of Chiangrai and planned our journey throughout four popular norther Thai cities. While there was a strong sense of culture shock during the first day of the trip as I adjusted to jet lag and took in the sights of Chiangrai, the rest of the trip was more natural, as if I had been accustomed to these surroundings for my entire life. Quaint shops and restaurants integrated into people's homes with merchants lining the main streets selling vegetables and handmade goods. 
 
-After settling into the city, we made our plans to venture out by bus and begin our backpacking trip to each city. I would like to make a post for each stop on the trip, so I'll keep the description of each city brief: 
+After settling into the city, we made our plans to venture out by bus and begin our backpacking trip to each location. I would like to make a post for each stop on the trip, so I'll keep the description of each city brief: 
 
 ### Chiang Mai
 
@@ -30,9 +30,9 @@ Chiangmai could be considered the second most popular city in Thailand, short of
 ### Pai
 --
 
-Pai was a very charming small town, with a suprisingly nice array of downtown shops, restaurants, and bars catered at American and European tourists. We stayed at a quaint hotel composed of guestouses placed on an active rice and livestock farm a few kilometers outside of Pai.
+Pai was a very charming small town, with a nice array of downtown shops, restaurants, and bars catered at American and European tourists. We stayed at a quaint hotel composed of guest houses placed on an active rice and livestock farm a few kilometers outside of Pai.
 
-{% include image.html url="/images/Krit-Father-ATV.jpg" description="Krit's father on a morning ATV expidition in Pai" %}
+{% include image.html url="/images/Krit-Father-ATV.jpg" description="Krit's father on a morning ATV expedition in Pai" %}
 
 --
 
