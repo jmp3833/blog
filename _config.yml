@@ -2,6 +2,7 @@
 title: 'Justin Peterson' # Your Title
 tagline: 'Web developer and hardware enthusiast.' 
 sidebar_image: /images/cover.jpg
+261-image: /images/python-logo.png 
 
 # Build settings
 markdown: redcarpet
@@ -10,3 +11,5 @@ baseurl: ""
 
 #Allow deploys to CI
 exclude: [vendor]
+
+permalink: pretty
