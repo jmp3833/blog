@@ -21,14 +21,17 @@ layout: default
 <article>
   <div class="container">
     <ul class="posts">
+      <h2><a href="{{site.baseurl}}/261">Click here for academic articles</a></h2>
       {% for post in site.posts %}
-        <li>
-          <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-          <span class="meta">
-            {{ post.date | date_to_string }}
-          </span>
-          {{ post.excerpt }}
-        </li>
+        {% if post.feature != "261" %}
+          <li>
+            <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+            <span class="meta">
+              {{ post.date | date_to_string }}
+            </span>
+            {{ post.excerpt }}
+          </li>
+        {% endif %}
       {% endfor %}
     </ul>
   </div>
