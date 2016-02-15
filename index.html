@@ -21,9 +21,9 @@ layout: default
 <article>
   <div class="container">
     <ul class="posts">
-      <h2><a href="{{site.baseurl}}/261">Click here for academic articles</a></h2>
+      <h3><a href="{{site.baseurl}}/261">--SWEN261 Academic Articles--</a></h3>
+      <h3><a href="http://www.se.rit.edu/~pastafarians/">--Project Blog: Linguine Natural Language Processing Tool--</a></h3>
       {% for post in site.posts %}
-        {% if post.feature != "261" %}
           <li>
             <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
             <span class="meta">
@@ -31,7 +31,6 @@ layout: default
             </span>
             {{ post.excerpt }}
           </li>
-        {% endif %}
       {% endfor %}
     </ul>
   </div>
